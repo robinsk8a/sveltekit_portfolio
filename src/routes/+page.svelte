@@ -1,12 +1,14 @@
-<div>
-  <h1>Welcome peasants!</h1>
-  <p>This page is yet under development so you'll porbably won't see this text</p>
-</div>
+<script>
+	import Hero from "$lib/components/home/Hero.svelte";
+	import Presentation from "$lib/components/home/Presentation.svelte";
 
+</script>
+<body>
+  <Hero />
+  <Presentation />
+</body>
 
 <style>
   /* This div is just stetically placed so i can separete the footer from the content for now */
-  div {
-    height: 700px;
-  }
+
 </style>

@@ -15,8 +15,22 @@ a {
 	color: inherit;
 }
 
+/* CUSTOM VARIABLES */
+
+:root {
+	--midnight-green: #094451;
+	--brunswick-green: #11544f;
+	--turquoise: #2ecbb6;
+	--lapiz-lazuli: #0e5480;
+	--aero: #05b3da;
+}
+
 /* CUSTOM STYLES */
 
 body {
 	font-family: 'Karla', sans-serif;
+}
+
+.container {
+	padding: 0 2rem;
 }
