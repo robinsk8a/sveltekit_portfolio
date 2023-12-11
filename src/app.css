@@ -18,11 +18,16 @@ a {
 /* CUSTOM VARIABLES */
 
 :root {
-	--midnight-green: #094451;
-	--brunswick-green: #11544f;
-	--turquoise: #2ecbb6;
-	--lapiz-lazuli: #0e5480;
-	--aero: #05b3da;
+	/* --midnight-green */
+	--dark01: #094451;
+	/* --brunswick-green */
+	--dark02: #11544f;
+	/* --turquoise */
+	--light01: #2ecbb6;
+	/* --lapiz-lazuli */
+	--neutro: #0e5480;
+	/* --aero */
+	--light02: #05b3da;
 }
 
 /* CUSTOM STYLES */
@@ -33,4 +38,8 @@ body {
 
 .container {
 	padding: 0 2rem;
+}
+
+p {
+	font-size: 1.2rem;
 }
