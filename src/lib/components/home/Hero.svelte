@@ -99,9 +99,9 @@
     border-radius: 0.6rem;
     color: aqua;
     transform: scale(1.05);
- 
+
   }
-  
+
   h3 {
     font-size: 2rem;
     margin: 1rem 2rem 1rem 0.6rem;
@@ -123,7 +123,7 @@
     margin-top: 2rem;
     margin-left: 2rem;
   }
-  
+
   .myself p:nth-child(1) {
     font-size: 7rem;
     font-weight: 600;
@@ -172,7 +172,5 @@
     width: 30rem;
     mix-blend-mode: exclusion;
   }
-
-  
 
 </style>

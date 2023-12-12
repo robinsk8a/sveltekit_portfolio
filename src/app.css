@@ -24,16 +24,18 @@ a {
 	--dark02: #11544f;
 	/* --turquoise */
 	--light01: #2ecbb6;
+	/* --aero */
+	--light02: #84dff3;
 	/* --lapiz-lazuli */
 	--neutro: #0e5480;
-	/* --aero */
-	--light02: #05b3da;
 }
 
 /* CUSTOM STYLES */
 
 body {
 	font-family: 'Karla', sans-serif;
+	color: var(--light02);
+	background-color: var(--dark01);
 }
 
 .container {
